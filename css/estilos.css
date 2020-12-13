@@ -1,0 +1,208 @@
+*{
+    border:0;
+    margin:0;
+    padding:0;
+}
+
+#contenedor{
+      box-shadow: 5px 5px 10px #033B12;
+      border-radius: 5px;
+      border: solid #308E49;
+      margin-top: 10px;
+      height: 1120px;
+      width: 780px;
+      margin-right: auto;
+      margin-left: auto;
+}
+header, #banner, #noticias, #tienda, #desarrolladores{
+      background: #06761F;
+      width: 780px;
+      height: 100px;
+}
+header{
+      width: 750px;
+      height: 90px;
+      padding: 8px 15px;
+
+}
+header h1{
+       display: inline-block;
+       vertical-align: middle;
+       float: left;
+}
+#menu{
+       padding: 0;
+ }
+#menu li{
+       display: inline-block;
+       vertical-align: middle;
+       padding-left: 5px;
+       padding-right: 5px;
+       padding-top: 20px;
+ }
+#menu li a{
+       font-family: arial;
+       font-size: 10px;
+       text-decoration: underline;
+       float: right;
+       padding: 13px;
+       background-color: black;
+       color: white;
+}
+#menu li a:hover {
+       background-color: #ccc;
+       margin-top: -2;
+       padding-bottom: 12px;]
+       }
+
+#banner{
+      background: #ccc;
+      height: 420px;
+}
+
+#noticias{
+      background: #06761F;
+      height: 215px;
+      width: 760px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 5px;
+      text-align: center;
+}
+#tienda{
+      background: #06761F;
+      height: 230px;
+      width: 760px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 5px;
+      text-align: center;
+}
+#desarrolladores{
+      background: #green;
+      height: 80px;
+      width: 760px;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 5px;
+      text-align: center;
+}
+footer{
+      background: #308E49;
+      width: 780px;
+      height: 45px;
+      padding-top: 15px
+}
+footer p{
+      font-family: arial;
+      font-size: 12px;
+      text-align: center;
+}
+article p{
+      font-family: arial;
+      font-size: 14px;
+      text-align: left;
+}
+a{
+     color: red;
+}
+#noticias #noticia1{
+      background: #43D9BF;
+      width: 250px;
+      height: 210px;
+      display: inline-block;
+      vertical-align: top;
+      margin: 0px 1px
+}
+#noticias #noticia2{
+      background: #43D9BF;
+      width: 240px;
+      height: 210px;
+      display: inline-block;
+      vertical-align: top;
+      margin: 0px 1px
+}
+#noticias #noticia3{
+      background: #43D9BF;
+      width: 250px;
+      height: 210px;
+      display: inline-block;
+      vertical-align: top;
+      margin: 0px 1px
+}
+.espacio{
+       width: 760px;
+       height: 10px;
+}
+
+#desarrolladores #desarrollador1{
+      background: #fff;
+      width: 240px;
+      height: 65px;
+      display: inline-block;
+      vertical-align: top;
+      margin: 0px 1px
+      border-radius: 5px;
+      border: solid #308E49;
+
+}
+#desarrolladores #desarrollador2{
+      background: #fff;
+      width: 240px;
+      height: 65px;
+      display: inline-block;
+      vertical-align: top;
+      margin: 0px 1px
+      border-radius: 5px;
+      border: solid #308E49;
+}
+#desarrolladores #desarrollador3{
+      background: #fff;
+      width: 240px;
+      height: 65px;
+      display: inline-block;
+      vertical-align: top;
+      margin: 0px 1px
+      border-radius: 5px;
+      border: solid #308E49;
+}
+
+#tienda #producto1{
+       background: #fff;
+       width: 170px;
+       height: 220px;
+       display: inline-block;
+       vertical-align: top;
+       margin: 0px 2px
+       border-radius: 5px;
+       border: solid #fff;
+}
+#tienda #producto2{
+       background: #fff;
+       width: 170px;
+       height: 220px;
+       display: inline-block;
+       vertical-align: top;
+       margin: 0px 2px
+       border-radius: 5px;
+       border: solid #fff;
+}
+#tienda #producto3{
+       background: #fff;
+       width: 170px;
+       height: 220px;
+       display: inline-block;
+       vertical-align: top;
+       margin: 0px 2px
+       border-radius: 5px;
+       border: solid #fff;
+}
+#tienda #producto4{
+       background: #fff;
+       width: 170px;
+       height: 220px;
+       display: inline-block;
+       vertical-align: top;
+       margin: 0px 2px
+       border-radius: 5px;
+       border: solid #fff;
